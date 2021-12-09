@@ -1,0 +1,32 @@
+
+
+body {
+     background-image: url("../images/backgroundphoto3.jpg");
+     color: rgb(10, 10, 17);
+}
+h1{
+     color: rgb(245, 215, 169);
+}
+h2{
+     color: blanchedalmond;
+     font-weight:bold;
+}
+
+h3{
+     text-decoration: underline;
+}
+ol{
+     list-style-type:lower-roman;     
+ }
+ p{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: black;
+ }
+ h3{
+      font-size: 1.5rem;
+ }
+
+ li{
+      font-weight: bolder;
+      font-style: italic;
+ }
